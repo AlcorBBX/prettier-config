@@ -1,7 +1,7 @@
 {
   "name": "prettier-config",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Prettier config from Alnero",
   "main": "index.js",
