@@ -1,4 +1,4 @@
-function createConfig(printWidth = 100, ...params) {
+function createConfig(printWidth = 75, ...params) {
   return {
     printWidth,
     tabWidth: 2,
