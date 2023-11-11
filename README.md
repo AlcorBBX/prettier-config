@@ -1,6 +1,6 @@
 # Prettier Config
 
-`.prettierrc.js`:
+`.prettierrc.cjs`:
 
 ```js
 module.exports = require("alnero-prettier-config").createConfig();
