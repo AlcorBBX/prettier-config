@@ -1,7 +1,7 @@
 {
-  "name": "prettier-config",
+  "name": "alnero-prettier-config",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.1.3",
   "license": "MIT",
   "description": "Prettier config from Alnero",
   "main": "index.js",
@@ -18,9 +18,9 @@
   "repository": "https://github.com/AlcorBBX/prettier-config",
   "engines": {
     "node": ">=12.0.0",
-    "yarn": "^1.21.1"
+    "yarn": "^>=1.21.1"
   },
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": ">=2.0.0 <4.0.0"
   }
 }
